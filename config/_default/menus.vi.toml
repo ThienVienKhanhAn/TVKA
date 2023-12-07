@@ -1,0 +1,46 @@
+# main menu
+[[main]]
+name = "Trang Chủ"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Tin Tức"
+url = "news/"
+weight = 2
+
+[[main]]
+name = "Khóa Tu"
+url = "courses/"
+weight = 3
+
+[[main]]
+name = "Góc Chia Sẻ"
+hasChildren = true
+weight = 4
+
+[[main]]
+parent = "Góc Chia Sẻ"
+name = "Phật học"
+url = "buddhist-learning/"
+
+[[main]]
+parent = "Góc Chia Sẻ"
+name = "Đời sống - Tu học"
+url = "life-learning/"
+
+[[main]]
+parent = "Góc Chia Sẻ"
+name = "Thơ - Văn"
+url = "literature/"
+
+# footer menu
+[[footer]]
+name = "Giới Thiệu"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Chính sách bảo mật"
+url = "privacy-policy/"
+weight = 2

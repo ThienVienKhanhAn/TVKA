@@ -1,0 +1,46 @@
+# Hauptmenü
+[[main]]
+name = "Startseite"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Nachrichten"
+url = "news/"
+weight = 2
+
+[[main]]
+name = "Kurse"
+url = "courses/"
+weight = 3
+
+[[main]]
+name = "Geteilter Bereich"
+hasChildren = true
+weight = 4
+
+[[main]]
+parent = "Geteilter Bereich"
+name = "Buddhistische Lehre"
+url = "buddhist-learning/"
+
+[[main]]
+parent = "Geteilter Bereich"
+name = "Leben und Lernen"
+url = "life-learning/"
+
+[[main]]
+parent = "Geteilter Bereich"
+name = "Gedichte und Literatur"
+url = "literature/"
+
+# Fußzeilenmenü
+[[footer]]
+name = "Über uns"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Datenschutzrichtlinien"
+url = "privacy-policy/"
+weight = 2
