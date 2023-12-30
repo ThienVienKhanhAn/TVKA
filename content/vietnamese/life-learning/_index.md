@@ -1,5 +1,5 @@
 ---
-title: "Khóa Tu"
+title: "Đời sống - Tu học"
 meta_title: ""
-description: "Khóa Tu"
+description: "Đời sống - Tu học"
 ---

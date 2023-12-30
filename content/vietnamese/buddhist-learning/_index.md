@@ -1,5 +1,5 @@
 ---
-title: "Khóa Tu"
+title: "Phật học"
 meta_title: ""
-description: "Khóa Tu"
+description: "Phật học"
 ---

@@ -1,51 +1,47 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Entdecken Sie Gelassenheit im Khanh An Kloster"
+  content: "Begib dich auf eine spirituelle Reise und finde Ruhe inmitten der malerischen Umgebung des Khanh An Klosters. Eingebettet im Herzen der Natur, bietet dieser heilige Ort eine friedliche Oase für jene, die Trost und Selbstbesinnung suchen. Tauche ein in die zeitlosen Traditionen von Achtsamkeit und Erleuchtung innerhalb üppiger Gärten und Meditationsräume, die von Jahrhunderten spiritueller Weisheit erfüllt sind. Schließe dich uns an in der Suche nach innerer Harmonie und umarme die Gelassenheit, die im Khanh An Kloster auf dich wartet – wo das Heilige auf das Erhabene trifft"
+  image: "/images/banner.jpeg"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Neuigkeiten Entdecken"
+    link: "/news"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Gemeinschaft von Mitgefühl und Unterstützung"
+    image: "/images/main-1.jpeg"
+    content: "Erlebe ein Gefühl der Gemeinschaft und des Mitgefühls im Kloster Khanh An, wo Menschen aus verschiedenen Hintergründen in einer unterstützenden Umgebung du zusammenkommen."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Nimm an Gemeinschaftstreffen teil, die ein Gefühl der Zugehörigkeit schaffen und Gelegenheiten für gemeinsame Erlebnisse bieten du."
+      - "Spüre die Wärme einer einladenden Atmosphäre, in der du mit offenen Armen empfangen wirst und ein Gefühl der Einheit gefördert wird."
+      - "Trage zur Gemeinschaft durch ehrenamtliche Programme bei und fördere eine Kultur des Gebens und der gegenseitigen Unterstützung du."
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: ""
+      link: ""
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+  - title: "Spirituelle Weisheit und Achtsamkeitstraditionen"
+    image: "/images/main-2.jpeg"
+    content: "Das Kloster Khanh An ist ein Zufluchtsort für diejenigen, die spirituelles Wachstum suchen, mit einer reichen Tradition von Achtsamkeitspraktiken du und einem Fokus auf inneren Frieden."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Entdecke bewusst gestaltete Meditationsräume, in denen du kontemplative Praktiken zur Steigerung der Achtsamkeit durchführen kannst."
+      - "Nimm an spirituellen Workshops und Lehren teil, die auf jahrhundertealter Weisheit basieren und persönliche sowie spirituelle Entwicklung fördern du."
+      - "Beteilige dich an täglichen Ritualen und Praktiken, die Achtsamkeit fördern und Besucher dazu ermutigen, sich mit ihrem inneren Selbst zu verbinden du."
     button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      enable: false
+      label: ""
+      link: ""
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Ruhige Natürliche Umgebung"
+    image: "/images/main-3.jpeg"
+    content: "Tauche ein in die ruhige und natürliche Umgebung des Klosters Khanh An, das einen friedlichen Rückzugsort du abseits des hektischen Alltags bietet."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Spaziere durch wunderschön angelegte Gärten, die einen ruhigen Raum für Meditation und Besinnung du bieten."
+      - "Eingebettet an einem malerischen Ort, ist das Kloster von atemberaubender natürlicher Schönheit umgeben und fördert ein Gefühl von Harmonie und Verbundenheit."
+      - "Erkunde friedliche Naturpfade, die durch die Klosteranlage führen du und Achtsamkeit sowie eine tiefe Verbindung zur Umgebung fördern."
     button:
       enable: false
       label: ""

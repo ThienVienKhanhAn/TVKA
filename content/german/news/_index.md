@@ -1,5 +1,5 @@
 ---
-title: "Tin Tức"
+title: "Nachrichten"
 meta_title: ""
-description: "Tin Tức"
+description: "Nachrichten"
 ---

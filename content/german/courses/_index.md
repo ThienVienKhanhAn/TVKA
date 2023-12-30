@@ -1,5 +1,5 @@
 ---
-title: "Khóa Tu"
+title: "Kurse"
 meta_title: ""
-description: "Khóa Tu"
+description: "Kurse"
 ---

@@ -1,51 +1,46 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Khám Phá Bình Yên Tại Thiền Viện Khánh An"
+  content: "Hãy bắt đầu hành trình tâm linh và tìm thấy bình yên giữa cảnh đẹp hữu tình của Thiền Viện Khánh An. Nằm sâu trong lòng thiên nhiên, nơi linh thiêng này mang đến một nơi nghỉ ngơi yên bình cho những người đang tìm kiếm an ủi và tìm lại chính mình. Ngập tràn trong những truyền thống về sự tỉnh thức và giác ngộ qua thời gian, bên trong những khu vườn xanh mướt và không gian thiền định, nơi âm thanh của những thế kỷ trí tuệ tâm linh vang vọng. Hãy cùng tham gia vào hành trình theo đuổi sự hài hòa tâm hồn và ôm trọn bình yên tại Thiền Viện Khánh An – nơi linh thiêng gặp gỡ với tinh tế."
+  image: "/images/banner.jpeg"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Khám Phá Tin Tức Mới Nhất"
+    link: "/news"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Cộng Đồng Tình Thương và Hỗ Trợ"
+    image: "/images/main-1.jpeg"
+    content: "Trải nghiệm sự đoàn kết và lòng nhân ái tại Tu Viện Khánh An, nơi mọi người từ nhiều nền văn hóa đến gặp nhau trong một môi trường hỗ trợ."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Tham gia vào các sự kiện cộng đồng, tạo ra cảm giác thuộc về và tạo cơ hội cho những trải nghiệm chung."
+      - "Cảm nhận sự ấm áp của không khí chào đón, nơi du khách được đón nhận một cách mở cửa rộng lớn, khuyến khích tinh thần đồng lòng."
+      - "Đóng góp cho cộng đồng thông qua các chương trình tình nguyện, khuyến khích văn hóa trao đổi và hỗ trợ lẫn nhau."
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: ""
+      link: ""
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+  - title: "Chương Trình Nghỉ Thiền Tâm Linh"
+    image: "/images/main-2.jpeg"
+    content: "Thiền Viện Khánh An là một nơi yên tâm cho những người tìm kiếm sự phát triển tâm linh, với một di sản phong phú về truyền thống tâm linh và sự tập trung vào bình an nội tâm."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Tham gia các buổi hướng dẫn và học thuật tâm linh lấy cảm hứng từ những truyền thống tri thức lâu dài, thúc đẩy sự phát triển cá nhân và tâm linh."
+      - "Tham gia vào những nghi lễ và thực hành hàng ngày khuyến khích tâm linh, giúp du khách tái kết nối với bản thân nội tâm."
     button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      enable: false
+      label: ""
+      link: ""
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Bình Yên Trong Bản Đồ Tự Nhiên"
+    image: "/images/main-3.jpeg"
+    content: "Khám phá môi trường thanh bình và những đặc điểm độc đáo làm nổi bật Thiền Viện Khánh An giữa các địa điểm tâm linh. Nằm trong lòng thiên nhiên, nơi linh thiêng này mang đến một không gian yên bình cho những người tìm kiếm sự yên tâm và suy ngẫm."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Lang thang qua những khu vườn được thiết kế đẹp mắt, tạo ra một không gian yên bình cho thiền định và suy ngẫm."
+      - " Được bao quanh bởi vẻ đẹp tự nhiên tuyệt vời, tu viện tạo nên một cảm giác hòa mình và kết nối với thiên nhiên."
+      - "Khám phá các đường đi tự nhiên thanh bình đi qua khuôn viên tu viện, thúc đẩy sự chú ý và kết nối sâu sắc với môi trường xung quanh."
     button:
       enable: false
       label: ""

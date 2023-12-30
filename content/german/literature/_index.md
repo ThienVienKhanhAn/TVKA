@@ -1,5 +1,5 @@
 ---
-title: "Kurse"
+title: "Gedichte und Literatur"
 meta_title: ""
-description: "Kurse"
+description: "Gedichte und Literatur"
 ---

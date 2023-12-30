@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "Những Giọng Nói của Bình Yên"
-description: "Khám phá những trải nghiệm biến đổi của những người đã ôm trọn hành trình thanh bình tại Tu Viện Khánh An. Đọc những đánh giá chân thành từ những người đã tìm thấy an ủi, sự chú ý và những kết nối sâu sắc giữa vòng tay bình yên của ngôi miếu linh thiêng này. Hãy để những câu chuyện của họ truyền cảm hứng cho hành trình tâm linh của bạn và sự theo đuổi của bình an nội tâm."
+title: "Stimmen der Gelassenheit"
+description: "Entdecke die transformative Erlebnisse von Menschen, die die friedliche Reise im Kloster Khanh An angenommen haben. Lies herzliche Erfahrungsberichte von denen, die Trost, Achtsamkeit und tiefgreifende Verbindungen inmitten der ruhigen Umarmung dieses heiligen Ortes gefunden haben. Lass dich von ihren Geschichten dazu inspirieren, deine eigene spirituelle Erkundung und das Streben nach innerem Frieden anzugehen."
 
 testimonials:
   - name: "Marvin McKinney"

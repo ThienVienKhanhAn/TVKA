@@ -1,5 +1,5 @@
 ---
-title: "Khóa Tu"
+title: "Buddhistische Lehre"
 meta_title: ""
-description: "Khóa Tu"
+description: "Buddhistische Lehre"
 ---

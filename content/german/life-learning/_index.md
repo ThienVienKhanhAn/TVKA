@@ -1,5 +1,5 @@
 ---
-title: "Khóa Tu"
+title: "Leben und Lernen"
 meta_title: ""
-description: "Khóa Tu"
+description: "Leben und Lernen"
 ---
