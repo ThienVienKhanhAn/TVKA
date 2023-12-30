@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Cộng Đồng Tình Thương và Hỗ Trợ"
     image: "/images/main-1.jpeg"
-    content: "Trải nghiệm sự đoàn kết và lòng nhân ái tại Tu Viện Khánh An, nơi mọi người từ nhiều nền văn hóa đến gặp nhau trong một môi trường hỗ trợ."
+    content: "Trải nghiệm sự đoàn kết và lòng nhân ái tại Thiền Viện Khánh An, nơi mọi người từ nhiều nền văn hóa đến gặp nhau trong một môi trường hỗ trợ."
     bulletpoints:
       - "Tham gia vào các sự kiện cộng đồng, tạo ra cảm giác thuộc về và tạo cơ hội cho những trải nghiệm chung."
       - "Cảm nhận sự ấm áp của không khí chào đón, nơi du khách được đón nhận một cách mở cửa rộng lớn, khuyến khích tinh thần đồng lòng."
@@ -39,8 +39,8 @@ features:
     content: "Khám phá môi trường thanh bình và những đặc điểm độc đáo làm nổi bật Thiền Viện Khánh An giữa các địa điểm tâm linh. Nằm trong lòng thiên nhiên, nơi linh thiêng này mang đến một không gian yên bình cho những người tìm kiếm sự yên tâm và suy ngẫm."
     bulletpoints:
       - "Lang thang qua những khu vườn được thiết kế đẹp mắt, tạo ra một không gian yên bình cho thiền định và suy ngẫm."
-      - " Được bao quanh bởi vẻ đẹp tự nhiên tuyệt vời, tu viện tạo nên một cảm giác hòa mình và kết nối với thiên nhiên."
-      - "Khám phá các đường đi tự nhiên thanh bình đi qua khuôn viên tu viện, thúc đẩy sự chú ý và kết nối sâu sắc với môi trường xung quanh."
+      - " Được bao quanh bởi vẻ đẹp tự nhiên tuyệt vời, thiền viện tạo nên một cảm giác hòa mình và kết nối với thiên nhiên."
+      - "Khám phá các đường đi tự nhiên thanh bình đi qua khuôn viên thiền viện, thúc đẩy sự chú ý và kết nối sâu sắc với môi trường xung quanh."
     button:
       enable: false
       label: ""
